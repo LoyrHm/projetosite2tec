@@ -116,3 +116,14 @@ position: absolute;
      top: 30%;
      left: 30%;
     }
+
+
+    .text4 {
+        top: 20%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
