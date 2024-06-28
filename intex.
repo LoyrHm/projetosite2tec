@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOVOTEC</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header class="Home" >
+        <div id="div1">
+            <h1 id="titulo">Célia Ribeiro Landim</h1>
+            <img class="logo" src="./Logo.png">
+        </div>    
+    </header>
+    <section>
+
+<!--Esta pag <P> eo indicador de troca de pagina(Podem deletar quando tiverem o conteudo do SITE)-->
+        <p class="text"> Essa aqui é a página dos NOVOTEC</p>
+
+
+        <div class="nav">
+            <ul>
+                <li><a href="./index.html" >Home</a></li>
+                <li><a href="./professores.html">Professores</a></li>
+                <li><a href="#">Novotec</a></li>
+            </ul>
+        </div>
+    </section>
+    
+
+</body>
+</html>
