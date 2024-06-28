@@ -68,9 +68,51 @@ a:hover{
 .text {
     top: 10%;
     position: absolute;
-    background-color: aqua;
     width: 100%;
     left: 0px;
     text-align: center;
     color: black;
 }
+
+.text2 {
+    top: 20%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.divisao{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    width: 50%;
+    height: 50%;
+    font-size: 30px;
+}
+
+.img{
+position: absolute;
+ width: 40%;
+ top: 30%;
+}
+
+
+.text3 {
+    top: 20%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.img2{
+    position: absolute;
+     width: 40%;
+     top: 30%;
+     left: 30%;
+    }
